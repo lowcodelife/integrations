@@ -1,2 +1,1 @@
-# integrations
-Repository to publish integrations and connectors.
+This repository consist of Power Automate Custom Connectors
