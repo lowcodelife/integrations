@@ -1,5 +1,3 @@
-This repository consist of Power Automate Custom Connectors
-
 OpenAI GPT-3 Connector
 This custom connector allows you to easily make API calls to OpenAI's GPT-3 model and retrieve responses. Simply provide a prompt, and the connector will use the GPT-3 API to generate a response.
 
