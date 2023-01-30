@@ -6,6 +6,9 @@ Easy integration with Power Automate
 Ability to send a prompt and receive a response from the GPT-3 model
 Supports the latest version of OpenAI's GPT-3 API
 Usage
+
+PLease see the User Guide that shows example of how to use it with Power Automate Flow
+
 To use the connector, you'll need an API key from OpenAI. If you don't already have one, you can sign up for an API key at the OpenAI website.
 
 In Power Automate, select the OpenAI GPT-3 connector and provide your API key.
@@ -13,6 +16,7 @@ In Power Automate, select the OpenAI GPT-3 connector and provide your API key.
 Enter your prompt and select the appropriate options, such as the response length, temperature, and top p values.
 
 Run the flow and the connector will return the response from the GPT-3 model.
+
 
 Inputs
 API Key: Your OpenAI API key
